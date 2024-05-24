@@ -3,6 +3,7 @@
 &ensp;&ensp;This is the source code of **\[ Tied and Anchored Stereo Attention Network for Cloud Removal in Optical Remote Sensing Images \]**. In this work, a novel remote sensing images cloud removal network, **TASANet**, was proposed, which can able to generate cloud-free remote sensing images with richer colors and clearer textures compared to existing ORS image cloud removal methods.
 
 &ensp;&ensp;The architecture of **TASANet** can be shown as follows:
+
 ![image](read_img/model-architecture.png#pic_center)
 # <div style="border-bottom: 1px solid rgba(0, 0, 0, 0.2) ;line-height: 50px;">2. References</div>
 &ensp;&ensp;If you use our code, models, or experimental data for your research, please cite [this](https://github.com/ningjin00/TASANet/) publication:
