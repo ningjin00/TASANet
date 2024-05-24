@@ -1,0 +1,4 @@
+config_file_name: "predict_config.yaml"
+model_load_path: "./model_state_save/TASA/TASA_epoch_020_iteration_000000.pth"
+model_output_path: "./asset/predict_output/"
+batch_size: 1

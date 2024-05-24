@@ -1,0 +1,4 @@
+
+config_file_name: "main_config.yaml"
+model_name: "my_model"
+use_gpu: True

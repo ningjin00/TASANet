@@ -1,0 +1,9 @@
+
+config_file_name: "dataset_config.yaml"
+s1_scale: 100.0
+s2_scale: 10000.0
+train_dataset_dir: "../dataset_example/train_example"
+
+eval_dataset_dir: "../dataset_example/eval_example"# 输入的验证文件路径
+
+predict_dataset_dir: "../dataset_example/test_example"

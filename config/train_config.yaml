@@ -1,0 +1,12 @@
+config_file_name: "train_config.yaml"
+is_print_model: False
+use_eval: True
+model_load_path: null
+learning_rate: 0.00007
+epoch: 10
+batch_size: 2
+model_save_dir: "./model_state_save/"
+show_img_path: "./asset/"
+model_save_frequency_iteration: 1000
+model_save_frequency_epoch: 1
+model_train_show_frequency: 200
