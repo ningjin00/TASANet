@@ -1,2 +1,2 @@
-method,end_time,SSIM_mean,PSNR_mean,SCC_mean,UQI_mean,VIF_mean,MAE_mean,RMSE_mean,SAM_mean,RASE_mean,ERGAS_mean
+method,end_time,SSIM_mean,PSNR_mean,UQI_mean,VIF_mean,MAE_mean,RMSE_mean,SAM_mean,RASE_mean,ERGAS_mean
 
