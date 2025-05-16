@@ -27,7 +27,6 @@
 # <div style="border-bottom: 1px solid rgba(0, 0, 0, 0.2) ;line-height: 50px;">5. Experiment Data</div>
 &ensp;&ensp;We split the dataset according to ROI into training, validation, and testing datasets. The division method is consistent with that of SEN12MS-CR dataset.
 
-&ensp;&ensp;For the way the dataset samples are placed, you can check out our sample dataset, which can be found [here](https://pan.baidu.com/s/1-7zt8IBQ_Oosd9FjDKxtyg?pwd=8888).
 # <div style="border-bottom: 1px solid rgba(0, 0, 0, 0.2) ;line-height: 50px;">6. Usage</div>
 &ensp;&ensp;If you want to continue training the model, you can run the [model_train.py](https://github.com/ningjin00/TASANet/blob/main/model_train.py) file for training. 
 
